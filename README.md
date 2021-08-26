@@ -4,11 +4,15 @@ this is really very awesome website..
 
 update made on master on github before rebase
 
-Repository Purpose
+**Repository Purpose**
 
 this file is just a readme file
 
-##Purpose
+**##Purpose**
 
 The purpose of this file is to provide examples
 on how to use Git and Github together.
+
+**##Getting Started**
+
+To get started with this project,just `clone` this repository.
